@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+| Degree | Date | Institution |
+| BSc in Biology & Psychology | 2014 - 2018 | University of Prince Edward Island |
+| MSc in Neuroscience | 2018 - Transferred to Doctoral Program | University of Calgary (with Dr. Jonathan Epp) |
+| PhD in Neuroscience | 2020 - Present | University of Calgary (with Dr. Jonathan Epp) |
 
-Work experience
+Honours and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+| Duration | Source | Award | Amount (CAD$) |
+| 2023/2 | Hotchkiss Brain Institute, University of Calgary | PhD Researcher of the Year (2022) | N/A |
+| 2022/5 - 2025/4 | Natural Sciences and Engineering Research Council of Canada (NSERC) | NSERC Postgraduate Scholarship - Doctoral | 63,000 |
+| 2022/7 - 2025/6 | Alzheimer's Society of Canada | Alzheimer's Society Research Program (ASRP), Doctoral Award | 66,000 (Declined) |
+| 2022/1 - 2022/12 | Hotchkiss Brain Institute, University of Calgary | Keith Sharkey Graduate Travel Award | 500 |
+| 2021/11 - 2022/5 | Canadian Open Neuroscience Platform, Brain Canada | CONP Scholar Award | 10,417 |
+| 2021/4 - 2021/10 | Canadian Open Neuroscience Platform, Brain Canada | CONP Scholar Award | 12,500 |
+| 2014/9 - 2018/5 | University of Prince Edward Island | Academic Entrance Scholarship | 8,000 |
+| 2014/9 - 2015/5 | University of Prince Edward Island | Leaders of Tomorrow Award | 2,000 |
 
 Publications
 ======
@@ -54,6 +46,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
