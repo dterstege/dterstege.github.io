@@ -1,5 +1,5 @@
 ---
-title: "Disrupted neurogenesis in germ-free mice: Effects of age and sex. Frontiers in cell and developmental biology."
+title: "Disrupted neurogenesis in germ-free mice: Effects of age and sex."
 collection: publications
 permalink: /publication/paper09
 date: 2020-05-29
