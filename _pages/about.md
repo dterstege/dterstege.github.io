@@ -15,7 +15,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Academic Interests
 
-![vasc_im](/images/deep_crop.png){: .align-right}
+![vasc_im](/images/deep_crop.png){: .align-right width="250"}
 
 - My primary academic interest is studying the brain-wide dynamics supporting learning and memory
   - My prefered techniques for these investigations include (but are not limited to - I'm always looking out for new techniques!):
@@ -27,10 +27,10 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Programming Languages
 
-![R_logo](images/R_logo.svg.png){: .align-center}
-![Matlab_logo](images/Matlab_Logo.png){: .align-center}
-![Matlab_logo](images/fiji.png){: .align-center}
-![Matlab_logo](Python-logo-notext.svg.png){: .align-center}
+![R_logo](images/R_logo.svg.png){: .align-center width="50"}
+![Matlab_logo](images/Matlab_Logo.png){: .align-center width="50"}
+![Matlab_logo](images/fiji.png){: .align-center width="50"}
+![Matlab_logo](Python-logo-notext.svg.png){: .align-center width="50"}
 
 ## Tools
 - [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP) as per https://doi.org/10.1523/ENEURO.0325-21.2022
@@ -38,8 +38,8 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Publication Repository
 
-[![gs_logo](images/1024px-Google_Scholar_logo.svg.png){: .align-right}](https://scholar.google.ca/citations?user=K164tDoAAAAJ&hl=en)
-[![rg_logo](images/64px-ResearchGate_icon_SVG.svg.png){: .align-right}](https://www.researchgate.net/profile/Dylan-Terstege)
+[![gs_logo](images/1024px-Google_Scholar_logo.svg.png){: .align-right width="30"}](https://scholar.google.ca/citations?user=K164tDoAAAAJ&hl=en)
+[![rg_logo](images/64px-ResearchGate_icon_SVG.svg.png){: .align-right width="30"}](https://www.researchgate.net/profile/Dylan-Terstege)
 
 - GitHub Repositories with the code used for data analysis (when applicable).
 - Further information on these publications can be found at the linked profiles (click icons):
