@@ -27,7 +27,7 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 ## Programming Languages
 
-![R_logo](images/R_logo.svg.png){: .align-center width="50"}  ![Matlab_logo](images/Matlab_Logo.png){: .align-center width="50"}  ![Matlab_logo](images/fiji.png){: .align-center width="50"}  ![Matlab_logo](Python-logo-notext.svg.png){: .align-center width="50"}
+![R_logo](images/R_logo.svg.png){: width="50"}  ![Matlab_logo](images/Matlab_Logo.png){: width="50"}  ![Matlab_logo](images/fiji.png){: width="50"}  ![Matlab_logo](Python-logo-notext.svg.png){: width="50"}
 
 ## Tools
 - [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP) as per https://doi.org/10.1523/ENEURO.0325-21.2022
