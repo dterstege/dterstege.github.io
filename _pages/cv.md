@@ -35,6 +35,7 @@ Honours and Awards
 
 Publications
 ======
+
  ### 2023
  * Terstege, D.J., Epp, J.R. (2023). [Parvalbumin as a sex-specific target in Alzheimer’s disease research – A mini-review](https://dterstege.github.io/publication/paper11). _Neuroscience & Biobehavioral Reviews_. 134, 105370. (PhD work).
  * Dawson, M., Terstege, D.J., Jamani, N., Pavlov, D., Tsutsui, M., Bugescu, R., Epp, J.R., Leinninger, G.M., Sargin, D. (2023). [Hypocretin/orexin neurons encode social discrimination and exhibit a sex-dependent necessity for social interaction](https://dterstege.github.io/publication/paper10). _Cell Reports_. 42(7). (PhD work). 
