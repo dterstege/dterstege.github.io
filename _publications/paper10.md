@@ -1,11 +1,11 @@
 ---
-title: "Sex-dependent roles of hypocretin/orexin neurons in social behavior."
+title: "Hypocretin/orexin neurons encode social discrimination and exhibit a sex-dependent necessity for social interaction."
 collection: publications
 permalink: /publication/paper10 
 date: 2023-07-25
 venue: 'Cell Reports'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2211124723008264?via%3Dihub'
-citation: 'Dawson, M., Terstege, D.J., Jamani, N., Pavlov, D., Tsutsui, M., Bugescu, R., Epp, J.R., Leinninger, G.M., Sargin, D. (2023). &quot;Sex-dependent roles of hypocretin/orexin neurons in social behavior.&quot; <i>Cell Reports</i>. 42(7).'
+citation: 'Dawson, M., Terstege, D.J., Jamani, N., Pavlov, D., Tsutsui, M., Bugescu, R., Epp, J.R., Leinninger, G.M., Sargin, D. (2023). &quot;Hypocretin/orexin neurons encode social discrimination and exhibit a sex-dependent necessity for social interaction.&quot; <i>Cell Reports</i>. 42(7).'
 ---
 
 [Download paper here](http://dterstege.github.io/files/paper10.pdf)
