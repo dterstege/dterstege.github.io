@@ -23,6 +23,7 @@ Honours and Awards
 
 | Duration | Source | Award | Amount (CAD$) |
 | -------- | ------ | ----- | ------------- |
+| 2023/7 | Hotchkiss Brain Institute, University of Calgary | HBI Award for Excellence in Brain and Mental Health Research | 2,000 |
 | 2023/2 | Hotchkiss Brain Institute, University of Calgary | PhD Researcher of the Year (2022) | N/A |
 | 2022/5 - 2025/4 | Natural Sciences and Engineering Research Council of Canada (NSERC) | NSERC Postgraduate Scholarship - Doctoral | 63,000 |
 | 2022/7 - 2025/6 | Alzheimer's Society of Canada | Alzheimer's Society Research Program (ASRP), Doctoral Award | 66,000 (Declined) |
