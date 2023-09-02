@@ -27,10 +27,6 @@ My prefered techniques for these investigations include (but are not limited to 
 - 3D CAD modelling and the prototyping of scientific hardware
 
 
-## Tools
-- [Image Registration to Custom Atlases](https://github.com/dterstege/FASTMAP) as per https://doi.org/10.1523/ENEURO.0325-21.2022
-- [Fibre Photometry Analyses](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry) as per https://doi.org/10.1101/2022.08.19.504565
-
 ## Publication Repository
 
 [![gs_logo](images/1024px-Google_Scholar_logo.svg.png){: .align-right width="30"}](https://scholar.google.ca/citations?user=K164tDoAAAAJ&hl=en)
