@@ -11,15 +11,15 @@ Open source tools and analyses are a cost-effective means of promoting reproduci
 
 I am a developer of the [FASTMAP](https://github.com/dterstege/FASTMAP/) ImageJ plug-in for the registration of biological images to atlases. You can view the [eNeuro](https://eNeuro.org/) article for the package [here](https://www.eneuro.org/content/9/2/ENEURO.0325-21.2022).
 
-# Fibre Photometry Analyses
+# Fiber Photometry Analyses
 
-I have developped several pipelines for the analysis of fibre photometry data obtained from [Doric Lenses](https://www.doriclenses.com) and [Neurophotometrics](https://neurophotometrics.com) photometry systems.
+I have developped several pipelines for the analysis of fiber photometry data obtained from [Doric Lenses](https://www.doriclenses.com) and [Neurophotometrics](https://neurophotometrics.com) photometry systems.
 
 The most comprehensive overview of these anayles has been documented in a [STAR Protocols](https://star-protocols.cell.com) manuscript, which can be found [here]().
 
 I've briefly outlined different applications below:
  * [Evans, Terstege et. al., 2022](https://www.nature.com/articles/s41598-022-10947-w):
-   * Fibre Photometry during Contextual Fear Conditioning
+   * Fiber Photometry during Contextual Fear Conditioning
    * Neurophotometrics Photometry System
    * ANY-Maze Behavioural Tracking
    * Click [here](https://github.com/dterstege/PublicationRepo/tree/main/Evans2022/FP) to access this GitHub repository
