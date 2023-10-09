@@ -25,6 +25,7 @@ My prefered techniques for these investigations include (but are not limited to 
 - _In vivo_ monitoring of cell type specific activity in specific target regions, at both a single cell level and at the level of regional population activity
 - Advanced histology and microscopy techniques, including various tissue clearing approaches, and sophisticated analysis of these images
 - 3D CAD modelling and the prototyping of scientific hardware
+- The analysis of clinical neuroimaging data
 
 
 ## Publication Repository
