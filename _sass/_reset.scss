@@ -7,12 +7,7 @@
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
-  //background-color: $background-color;
-   background-image: url(https://github.com/dterstege/dterstege.github.io/blob/master/images/deep_crop.png);
-   background-size: 100%;
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-position: center;
+  background-color: $background-color;
   font-size: 16px;
 
   @include breakpoint($medium) {
