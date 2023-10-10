@@ -302,6 +302,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+header:
+  image: /images/header.jpg
 
 # HTML Compression
 # - http://jch.penibelst.de/
