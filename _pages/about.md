@@ -6,8 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-header:
-  image: /images/header.jpg
 ---
 
 Dylan Terstege
