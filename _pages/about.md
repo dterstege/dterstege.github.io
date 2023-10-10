@@ -11,7 +11,9 @@ redirect_from:
 Dylan Terstege
 -------------------
 
-I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) in the Hotchkiss Brain Institute at the University of Calgary.
+I am a neuroscience PhD candidate studying under the supervison of [Dr. Jonathan Epp](https://epplab.com). The Epp Lab is a part of the Hotchkiss Brain Institute within the University of Calgary's Cumming School of Medicine.
+
+---
 
 ## Academic Interests
 
@@ -19,13 +21,14 @@ I am a neuroscience PhD candidate studying in the [Epp Lab](https://epplab.com) 
 
 My primary academic interest is studying the brain-wide dynamics supporting learning and memory
 
-My prefered techniques for these investigations include (but are not limited to - I'm always looking out for new techniques!):
+My prefered techniques for these investigations include (but are not limited to - I'm always on the look-out for new techniques!):
 - Batteries of sophisticated behavioural analyses
 - Brain-wide mapping of immediate early gene expression and the graph theoretical analysis of these functional connectivity networks
 - _In vivo_ monitoring of cell type specific activity in specific target regions, at both a single cell level and at the level of regional population activity
+- Opto- and chemo-genetic manipulations
 - Advanced histology and microscopy techniques, including various tissue clearing approaches, and sophisticated analysis of these images
-- 3D CAD modelling and the prototyping of scientific hardware
 - The analysis of clinical neuroimaging data
+- 3D CAD modelling and the prototyping of scientific hardware
 
 
 ## Publication Repository
