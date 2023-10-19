@@ -21,7 +21,7 @@ I am a neuroscience PhD candidate studying under the supervison of [Dr. Jonathan
 
 My primary academic interest is studying the brain-wide dynamics supporting learning and memory
 
-My prefered techniques for these investigations include (but are not limited to - I'm always on the look-out for new techniques!):
+My prefered techniques for these investigations include (but are not limited to):
 - Batteries of sophisticated behavioural analyses
 - Brain-wide mapping of immediate early gene expression and the graph theoretical analysis of these functional connectivity networks
 - _In vivo_ monitoring of cell type specific activity in specific target regions, at both a single cell level and at the level of regional population activity
@@ -36,5 +36,5 @@ My prefered techniques for these investigations include (but are not limited to 
 [![gs_logo](images/1024px-Google_Scholar_logo.svg.png){: .align-right width="30"}](https://scholar.google.ca/citations?user=K164tDoAAAAJ&hl=en)
 [![rg_logo](images/64px-ResearchGate_icon_SVG.svg.png){: .align-right width="30"}](https://www.researchgate.net/profile/Dylan-Terstege)
 
-- GitHub Repositories with the code used for data analysis (when applicable).
-- Further information on these publications can be found at the linked profiles (click icons):
+- [GitHub Repositories](https://github.com/dterstege/PublicationRepo) with all code and supplementary files used for published menuscripts
+- Further information on these publications can be accessed through the [Publications](https://dterstege.github.io/publications/) tab, or through Google Scholar and Research Gate
