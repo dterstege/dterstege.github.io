@@ -1,22 +1,87 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Washington, DC, USA",
+    38.9071923,
+    -77.0368707
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Niagara Falls, ON, Canada",
+    43.1065603,
+    -79.0639039
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
-  ]
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Calgary, AB, Canada",
+    51.0486151,
+    -114.0708459
+  ],
+  [
+    "Halifax, NS, Canada",
+    53.724077,
+    -1.862657
+  ],
+  [
+    "Vancouver, BC, Canada",
+    49.2827291,
+    -123.1207375
+  ],
+  [
+    "Glasgow, SC, UK",
+    55.855078,
+    -4.252364
+  ],
+  [
+    "Toronto, ON, Canada",
+    43.653226,
+    -79.3831843
+  ],
+  [
+    "Toronto, ON, Canada",
+    43.653226,
+    -79.3831843
+  ],
 ];
