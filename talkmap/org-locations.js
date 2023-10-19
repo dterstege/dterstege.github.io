@@ -61,8 +61,8 @@ var addressPoints = [
   ],
   [
     "Halifax, NS, Canada",
-    53.724077,
-    -1.862657
+    44.6356,
+    -63.5952
   ],
   [
     "Vancouver, BC, Canada",
