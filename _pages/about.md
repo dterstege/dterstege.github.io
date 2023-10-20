@@ -17,8 +17,6 @@ I am a neuroscience PhD candidate studying under the supervison of [Dr. Jonathan
 
 ## Academic Interests
 
-![vasc_im](/images/deep_crop.png){: .align-right width="250"}
-
 My primary academic interest is studying the brain-wide dynamics supporting learning and memory
 
 My prefered techniques for these investigations include (but are not limited to):
