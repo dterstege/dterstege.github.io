@@ -8,21 +8,12 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   
-  //background-color: $background-color;
-
-   .background {
-     background-image: url(/images/deep_crop_narrow.png); 
-     background-size: 100% auto;
-     background-repeat: no-repeat;
-     background-attachment: fixed;
-     background-position: center;
-   }
-
-   .layer {
-      background-color: $background-color;
-      width: 90%;
-      height: 100%;
-   }
+  background-color: $background-color;
+   //background-image: url(/images/deep_crop_narrow.png); 
+   //background-size: 100% auto;
+   //background-repeat: no-repeat;
+   //background-attachment: fixed;
+   //background-position: center;
   
    font-size: 16px;
 
