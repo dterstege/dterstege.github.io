@@ -13,6 +13,11 @@
 
 
    background-color: $background-color;
+   background-image: url(/images/header_whitebox.jpg); 
+   background-size: 100%;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-position: center;
    
   &__inner-wrap {
     @include container;
