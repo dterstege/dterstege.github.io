@@ -1,7 +1,7 @@
 ---
 title: "Network neuroscience untethered: brain-wide immediate early gene expression for the analysis of functional connectivity in freely behaving animals."
-collection: publications
-permalink: /publication/paper01 
+collection: preprints
+permalink: /preprints/paper01 
 date: 2022-12-24
 venue: 'Biology'
 paperurl: '/files/paper01.pdf'
