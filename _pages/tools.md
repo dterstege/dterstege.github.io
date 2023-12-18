@@ -42,8 +42,7 @@ I've briefly outlined different applications below:
    * Doric Lenses Photometry System
    * ANY-Maze Behavioural Tracking
    * Click [here](https://github.com/dterstege/PublicationRepo/tree/main/Dawson2022/photometry) to access this GitHub repository
- * [Terstege et. al., 2023]()
-   * *Manuscript has been accepted to STAR Protocols, link to be added upon publication*
+ * [Terstege et. al., 2023](https://star-protocols.cell.com/protocols/3138)
    * Fiber Photometry during Reciprocal Social Interaction Task
    * Scripts available for analyses using data from Neurophotometrics and Doric Lenses Photometry Systems
    * Videos recorded in ANY-Maze and then analyzed using [SimBA](https://goldenneurolab.com/simba) and [DeepLabCut](http://www.mackenziemathislab.org/deeplabcut).
