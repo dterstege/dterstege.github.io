@@ -14,6 +14,11 @@ Open source tools and analyses are a cost-effective means of promoting reproduci
 I am a developer of the [FASTMAP](https://github.com/dterstege/FASTMAP/) ImageJ plug-in for the registration of biological images to atlases. You can view the [eNeuro](https://eNeuro.org/) article for the package [here](https://www.eneuro.org/content/9/2/ENEURO.0325-21.2022).
 
 ---
+# PAW
+
+I have designed [PAW](https://github.com/dterstege/PAW/), a 3D-**P**rintable **A**rduino-based **W**heel logger. This system has proven to be a cost-effective and open-source alternative to the expensive and inflexibly designed commerical running wheels. You can view the [HardwareX](https://www.hardware-x.com) article for the package [here](https://www.sciencedirect.com/science/article/pii/S2468067223001062).
+
+---
 
 # Fiber Photometry Analyses
 
