@@ -13,6 +13,10 @@ Dylan Terstege
 
 I am a neuroscience PhD candidate studying under the supervison of [Dr. Jonathan Epp](https://epplab.com). The Epp Lab is a part of the Hotchkiss Brain Institute within the University of Calgary's Cumming School of Medicine.
 
+I obtained a BSc from the University of Prince Edward Island, where I completed an honours thesis under the joint supervision of Drs. Catherine Ryan and Tracy Doucette. Here, I studied the relative preference for scotoxais vs thigmotaxis in the zebrafish stress response behaviour. During this time, I also concurrently worked in the lab of Dr. R Andrew Tasker, where I used behavioural pharmacology to assess antidepressant effects of several herbal compounds in rodent models.
+
+During my graduate studies, my research has focused on intrinsic and extrinsic means of modulating the networks which underlie memory storage.
+
 ---
 
 ## Academic Interests
