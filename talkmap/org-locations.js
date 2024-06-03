@@ -35,6 +35,16 @@ var addressPoints = [
     -114.0708459
   ],
   [
+    "Vancouver, BC, Canada",
+    49.2827,
+    -123.1207
+  ],
+  [
+    "Panama City, Panama",
+    8.9824,
+    -79.5199
+  ],
+  [
     "Calgary, AB, Canada",
     51.0486151,
     -114.0708459
