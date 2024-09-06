@@ -29,7 +29,8 @@ My prefered techniques for these investigations include (but are not limited to)
 - _In vivo_ monitoring of cell type specific activity in specific target regions, at both a single cell level and at the level of regional population activity
 - Opto- and chemo-genetic manipulations
 - Advanced histology and microscopy techniques, including various tissue clearing approaches, and sophisticated analysis of these images
-- The analysis of clinical neuroimaging data
+- The analysis of clinical neuroimaging data (fMRI, MRI, PET)
+- The analysis of transcriptomic data (Xenium, GeoMX)
 - 3D CAD modelling and the prototyping of scientific hardware
 
 
