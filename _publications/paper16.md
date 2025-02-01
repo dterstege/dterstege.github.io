@@ -1,5 +1,5 @@
 ---
-title: "Running-induced neurogenesis reduces CA1 perineuronal net density without substantial temporal delay."
+title: "Retrosplenial hypometabolism precedes the conversion from mild cognitive impairment to Alzheimer's disease."
 collection: publications
 permalink: /publication/paper16 
 date: 2024-09-02
