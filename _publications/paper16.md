@@ -2,7 +2,7 @@
 title: "Retrosplenial hypometabolism precedes the conversion from mild cognitive impairment to Alzheimer's disease."
 collection: publications
 permalink: /publication/paper16 
-date: 2024-09-02
+date: 2024-08-21
 venue: 'Molecular Brain'
 paperurl: '/files/paper16.pdf'
 link: 'https://molecularbrain.biomedcentral.com/articles/10.1186/s13041-024-01138-x'
