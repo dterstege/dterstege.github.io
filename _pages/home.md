@@ -10,7 +10,7 @@ header:
       url: "/about/"
 title: Terstege Neuro
 tagline: "Inhibitory Networks:<br />Regulating Brain Activity in Health and Disease"
-excerpt: Studying how ensembles of GABAergic neurons are formed, change over time, and deteriorate in disease.
+excerpt: Studying how circuits of GABAergic neurons are formed, reorganize over time, and change with disease.
 layouts_gallery:
   - image_path: /assets/images/logo_INMED.png
   - image_path: /assets/images/logo_INSERM.png
