@@ -6,7 +6,7 @@ excerpt: "How to Reach Me"
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/main_hero.png
-toc: true
+toc: false
 toc_label: "Contact"
 toc_sticky: true
 toc_icon: address-card
@@ -34,5 +34,3 @@ INMED - INSERM UMR1249 <br />
 **_Let's Connect._**
 
 > I am always interested in discussing the analysis of calcium imaging datasets (fiber photometry, miniscope, 2-photon, etc.) and functional connectivity (be it fMRI or immediate early gene-based). If you are interested in collaborating on such projects, please reach out and let me know.
-
-</span>
