@@ -27,19 +27,19 @@ header:
       {% if member.linkedin %}
         &nbsp;
           <a href="https://www.linkedin.com/in/{{ member.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer me" target="_blank" style="text-decoration:none !important; text-decoration:none;">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span>
+            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">LinkedIn</span> 
           </a>
       {% endif %}
       {% if member.twitter %}
         &nbsp;
           <a href="https://www.x.com/{{ member.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer me" target="_blank" style="text-decoration:none !important; text-decoration:none;">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">Twitter</span>
+            <i class="fa-brands fa-twitter" aria-hidden="true"></i><span class="label">Twitter</span>
           </a>
       {% endif %}
       {% if member.bluesky %}
         &nbsp;
-          <a href="https://www.bsky.app/profile/{{ member.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer me" target="_blank" style="text-decoration:none !important; text-decoration:none;">
-            <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span class="label">Bluesky</span>
+          <a href="https://www.bsky.app/profile/{{ member.bluesky }}" itemprop="sameAs" rel="nofollow noopener noreferrer me" target="_blank" style="text-decoration:none !important; text-decoration:none;">
+            <i class="fa-brands fa-bluesky" aria-hidden="true"></i><span class="label">Bluesky</span>
           </a>
       {% endif %}
       {% if member.website %}
