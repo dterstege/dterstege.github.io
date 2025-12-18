@@ -15,6 +15,12 @@ layouts_gallery:
   - image_path: /assets/images/logo_INMED.png
   - image_path: /assets/images/logo_INSERM.png
   - image_path: /assets/images/logo_empty.png
+  - image_path: /assets/images/logo_empty.png
+  - image_path: /assets/images/logo_empty.png
+  - image_path: /assets/images/logo_empty.png
+  - image_path: /assets/images/logo_empty.png
+  - image_path: /assets/images/logo_empty.png
+  - image_path: /assets/images/logo_empty.png
 ---
 
 ## Research Overview
