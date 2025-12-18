@@ -9,6 +9,6 @@ header:
   overlay_image: /assets/images/main_hero.png
 ---
 
-If viewing on a mobile device, please click [here](/files/CV-DylanTerstege.pdf) to view full PDF.
+If viewing on a mobile device, please click [here](/assets/files/CV-DylanTerstege.pdf) to view full PDF.
 
-<iframe src="/assets/files/CV-DylanTerstege.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/assets/files/CV-DylanTerstege.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
