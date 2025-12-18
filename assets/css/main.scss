@@ -88,3 +88,13 @@ search: false
                 border-bottom: 2px solid $primary-color;
         }
 }
+
+.repositories > * {
+  flex: 0 0 100%;
+}
+
+@media (min-width: 768px) {
+  .repositories > * {
+    flex: 0 0 48%;
+  }
+}
