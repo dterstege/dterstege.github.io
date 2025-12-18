@@ -98,3 +98,8 @@ search: false
     flex: 0 0 48%;
   }
 }
+.site-logo img {
+  height: auto;
+  max-height: 40px;   /* adjust as needed */
+  width: auto;
+}
