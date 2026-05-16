@@ -181,7 +181,7 @@ header:
         journal="eNeuro"
         page="2022;9(2):ENEURO.0325-21.2022" 
         pmid="35228311" 
-        doi="10.1523/ENEURO.0325-21.20224"
+        doi="10.1523/ENEURO.0325-21.2022"
 %}
 
 ## 2021
