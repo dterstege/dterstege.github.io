@@ -25,6 +25,15 @@ header:
 ## 2025
 
 {% include publication 
+        authors="*Terstege, D.J.* & Epp, J.R."
+        title="Environmental enrichment preserves retrosplenial parvalbumin density and cognitive function in female 5xFAD mice" 
+        journal="Journal of Neuroscience" 
+        page="2025;46(9):e0455252026" 
+        pmid="41633836" 
+        doi="10.1523/JNEUROSCI.0455-25.2026"                
+%}
+
+{% include publication 
         authors="Bardnard, I.L., McElroy, D.L., Young, K.M., *Terstege, D.J.*, Glass, A.E., Epp, J.R., Botterill, J.J., Howland, J.G."
         title="Activity of CaMKII-expressing neurons in medial prefrontal cortex of male and female Long Evans rats is necessary for encoding odor information and novelty recognition in an odor-based incidental memory test" 
         journal="Cerebral Cortex" 
